@@ -7,9 +7,7 @@ Welcome to my personal developer portfolio! This website showcases who I am, my 
 ## 🔗 Live Demo
 
 You can view the live version of the site here:  
-👉 [https://your-username.github.io/portfolio-website](https://your
-
-> (If hosted on Netlify, replace the link above with: https://your-site-name.netlify.app)
+👉 https://margaretmw.netlify.app/
 
 ---
 
