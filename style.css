@@ -1,0 +1,123 @@
+/* style.css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  line-height: 1.6;
+  background: #220707;
+  color: #ccbbbb;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  color: #1a4977;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #2980b9;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: #9e9191;
+}
+
+main section {
+  margin-bottom: 40px;
+  background: #200e0e;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(252, 152, 152, 0.473);
+  text-align: center;
+
+}
+em{
+  font-style: initial;
+  color: rgb(119, 76, 19);
+}
+img {
+  width: 200px;
+  border-radius: 85px;
+  display: block;
+  margin: 0 auto 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  color: #053a6e;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+h3{
+  color: #abcbeb;
+  margin-top: 10px;
+  font-style: oblique;
+  font-size: 20px;
+  
+}
+
+.project {
+  margin-top: 20px;
+}
+article, p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+}
+.more-details {
+  border-radius: 5px;
+  color: #3c15c9;
+  background-color: #7686e0;
+  font-size: 15px;
+}
+
+.skills-lists{
+  width: 100%;
+  list-style-type: none;
+  height: 30%;
+  margin-right: 5px;
+}
+
+.goals{
+  width: 95%;
+  margin: 5px solid rgb(53, 22, 22);
+  margin-left: 5px;
+
+}
+.contact-me{
+  padding: 30px;
+  font-size: 15px;
+  color: rgb(84, 103, 184);
+  font-style: italic;
+  text-align: center;
+  display: inline;
+  width: 85%;
+  text-decoration: none;
+  
+}
+.contact-me:hover{
+  color: #9e9191;
+}
+a{
+  padding-left: 10px;
+  text-decoration: none;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  color: #888;
+}
